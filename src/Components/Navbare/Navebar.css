@@ -1,0 +1,54 @@
+.Navbare{
+    display: flex;
+    justify-content: space-around;
+    gap: 16px;
+    box-shadow: 0 1px 23px -2px black;
+    color: #f3f3f3;
+}
+.log{
+    display: flex;
+    font-size: 32px;
+    align-items: center;
+}
+.list{
+    display: flex;
+    gap: 35px;
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    cursor: pointer;
+}
+.list li hr{
+    border: none;
+    height: 80%;
+    height: 3px;
+    border-radius: 10px;
+
+   background-color: brown;
+}
+.but{
+    align-items: center;
+    display: flex;
+    gap: 45px;
+}
+.but button{
+    height: 58px;
+    width: 137px;
+    outline: none;
+    border: 1px solid gray;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 75px;
+    background-color: rgb(216, 131, 11);
+    transition:  2s;
+}
+.but img{
+    cursor: pointer;
+}
+.but button :hover{
+    background: #f3f3f3;
+}
+#prob img{
+    height: 50px;
+}

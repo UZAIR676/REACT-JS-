@@ -1,0 +1,22 @@
+h1{
+    color: orange;
+    padding-right: 25%;
+}
+.newcollection h1{
+    align-items: center;
+    padding-left: 33%;
+   text-transform: uppercase;
+   font-size: 70px;
+}
+.colo{
+    display: flex;
+    gap: 22px;
+    align-items: center;
+    padding-left: 70px;
+}
+.colo2{
+    display: flex;
+    gap: 22px;
+    align-items: center;
+    padding-left: 70px;
+}

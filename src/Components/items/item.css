@@ -1,0 +1,26 @@
+.item{
+    width: 350px;
+
+}
+.item p{
+    width: 6px 0px;
+}
+.item-price{
+   display: flex;
+   gap: 20px;
+}
+.item-price-new{
+    color: gray;
+    font: 600;
+    font-size: 18px;
+}
+.item-price-new{
+    color: gray;
+    font: 500;
+    font-size: 18px;
+    text-decoration: line-through;
+}
+.item :hover{
+    transform: scale(1.05);
+    transition: 1.02s;
+}

@@ -1,0 +1,15 @@
+.newcollection h1{
+    align-items: center;
+    padding-left: 33%;
+   text-transform: uppercase;
+   font-size: 70px;
+}
+.colo{
+    display: flex;
+    gap: 22px;
+    align-items: center;
+    padding-left: 70px;
+}
+h4{
+    color: aliceblue;
+}

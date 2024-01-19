@@ -1,0 +1,50 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+   
+}
+.new{
+    height: 50vh;
+    width: 100%;
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);  
+    align-items: center;
+}
+ .NewsLetter{
+    padding-left: 40%;
+    padding-top: 10%;
+    justify-content: center;
+    
+} 
+.NewsLetter input{
+    width: 400px;
+    height: 40px;
+    /* margin-left: 30px; */
+    border: none;
+    outline: none;
+    color: gray;
+    font-family: poppins;
+    border: 1px solid black;
+   
+   
+}
+.NewsLetter button {
+    height: 60px;
+    width: 200px;
+    background-color: black;
+    color: wheat;
+    cursor: pointer;
+    transition: 2s;
+}
+
+.NewsLetter button:hover {
+    background-color: white;
+    color: black;
+}
+.new h1{
+    color: black;
+    padding-left: 500px;
+}

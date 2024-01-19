@@ -1,0 +1,34 @@
+.end{
+    height: 50vh;
+    width: 100%;
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);  
+}
+.LINE{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.LINE h1{
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 2px;
+    padding-right: 340px;
+}
+#info {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 4vw;
+}
+#whts{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 4vw;
+    padding-top: 22px;
+
+}
